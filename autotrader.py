@@ -5,9 +5,9 @@ import requests
 import pandas as pd
 import numpy as np
 
-APP_KEY     = "PSmFc39iEqJf6wCSQyoL560YTkTF0HHVXk9K"
-APP_SECRET  = "eaZKjlpykgs1eBT5LZmPTzIPwrKfigas8mlIkkwEV2xV8RMuBdkwlug3nlamBHZ1Z4STJYP78Jz6XOoayEL3tIywOEpnEOtRsY2SI47b/5JWArC41V56x0ubLU3X6xhl2gT4Id9ZWTREEtbkY0/F3nuKJd9Hl3BrUc3DLWMnIYVJBpGBGuQ="
-ACCOUNT_NO  = "50193477-01"
+APP_KEY     = ""
+APP_SECRET  = ""
+ACCOUNT_NO  = ""
 ENV         = "paper"
 SEED_CAPITAL = 10_000_000
 
